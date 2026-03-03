@@ -171,7 +171,4 @@ This project demonstrates how Power BI can be used to:
 * Identify opportunities for improvement
 * Present insights in a simple and interactive way
 
-It is a complete end-to-end Data Analyst project suitable for portfolio and interviews.
-
-* Create a short LinkedIn project description 🚀
 
