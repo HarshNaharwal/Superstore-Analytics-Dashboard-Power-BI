@@ -38,9 +38,10 @@ Management needs a **clear and interactive dashboard** to make data-driven decis
 
 The main goals of this dashboard are:
 
-✅ Track overall Sales, Profit, and Return %
-✅ Compare current performance vs previous year
-✅ Identify profitable and loss-making products
+1. Track overall Sales, Profit, and Return %
+
+2.  Compare current performance vs previous year
+ Identify profitable and loss-making products
 ✅ Analyze state-wise profit
 ✅ Understand customer segment contribution
 ✅ Support better business decisions
